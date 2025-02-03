@@ -21,11 +21,11 @@ Aplikasi Hitung Zakat adalah aplikasi berbasis web yang dibuat menggunakan Nuxt.
 1. **Clone repository**
     ```sh
     git clone https://github.com/rasyidly/zakat.git
-    cd aplikasi-hitung-zakat
+    cd zakat
     ```
 2. **Instal dependensi**
     ```sh
-    npm install
+    npm i
     ```
 3. **Jalankan aplikasi dalam mode pengembangan**
     ```sh
